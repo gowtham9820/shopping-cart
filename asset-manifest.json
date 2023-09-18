@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.2054d638.css",
+    "main.js": "/shopping-cart/static/js/main.052a774a.js",
+    "static/js/787.d6fe38e8.chunk.js": "/shopping-cart/static/js/787.d6fe38e8.chunk.js",
+    "static/media/Phone_1.jpg": "/shopping-cart/static/media/Phone_1.05e1221f7ca0510b77f7.jpg",
+    "static/media/Laptop_2.jpg": "/shopping-cart/static/media/Laptop_2.34ee10c633238296b76b.jpg",
+    "static/media/Monitor_2.jpg": "/shopping-cart/static/media/Monitor_2.2f84c774e0952230242f.jpg",
+    "static/media/Laptop_3.jpg": "/shopping-cart/static/media/Laptop_3.71b610d844c5941039ad.jpg",
+    "static/media/Phone_6.jpg": "/shopping-cart/static/media/Phone_6.8c8f9dd17642e438e6a7.jpg",
+    "static/media/Monitor_3.jpg": "/shopping-cart/static/media/Monitor_3.c2d7f147bf1643dd68f0.jpg",
+    "static/media/Laptop_1.jpg": "/shopping-cart/static/media/Laptop_1.d3799ae02064627360fd.jpg",
+    "static/media/Phone_3.jpg": "/shopping-cart/static/media/Phone_3.6963787f6710677d32c8.jpg",
+    "static/media/Phone_4.jpg": "/shopping-cart/static/media/Phone_4.8bfe9a2765e8103edb15.jpg",
+    "static/media/Monitor_4.jpg": "/shopping-cart/static/media/Monitor_4.587123a478183a089188.jpg",
+    "static/media/Monitor_5.jpg": "/shopping-cart/static/media/Monitor_5.6536428bdb52f8dffd84.jpg",
+    "static/media/Phone_2.jpg": "/shopping-cart/static/media/Phone_2.6fc0aaf92a4a053114ec.jpg",
+    "static/media/Monitor_1.jpg": "/shopping-cart/static/media/Monitor_1.21dd9f2637664752de99.jpg",
+    "static/media/Phone_5.jpg": "/shopping-cart/static/media/Phone_5.8e90c6cf9d0e6ce14bda.jpg",
+    "index.html": "/shopping-cart/index.html",
+    "main.2054d638.css.map": "/shopping-cart/static/css/main.2054d638.css.map",
+    "main.052a774a.js.map": "/shopping-cart/static/js/main.052a774a.js.map",
+    "787.d6fe38e8.chunk.js.map": "/shopping-cart/static/js/787.d6fe38e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2054d638.css",
+    "static/js/main.052a774a.js"
+  ]
+}
